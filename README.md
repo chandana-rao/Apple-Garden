@@ -7,6 +7,6 @@ Apple Garden is a 2-dimentional apple game, wherein the user has to catch the ap
 
 The project is based on a simple window co-ordinates and using recursive techniques in OpenGL. The package is developed using computer graphics with OpenGL
 
-![alt text](Snapshots/Screenshot from 2016-05-17 14_08_35.png)
-![alt text](Snapshots/Screenshot from 2016-05-17 14_08_46.png)
-![alt text](Snapshots/Screenshot from 2016-05-17 14_09_15.png)
+![alt text](Snapshots/Menu.png)
+![alt text](Snapshots/Score1.png)
+![alt text](Snapshots/Score2.png)
